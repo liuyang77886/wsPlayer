@@ -6,9 +6,18 @@ https://github.com/zlmediakit/ZLMediaKit/wiki/%E6%92%AD%E6%94%BEurl%E8%A7%84%E5%
 https://blog.csdn.net/dongaddxing/article/details/140215094
 
 rtsp://stream.strba.sk:1935/strba/VYHLAD_JAZERO.stream
+
 rtsp://t-VirtualBox:18554/live/test1
+
 http://t-VirtualBox:18080/live/test1.live.mp4
+
 ws://t-VirtualBox:18080/live/test1.live.mp4
+
+http://t-virtualbox:18080/
+
+http://t-virtualbox:18080/swagger/
+
+/index/api/addStreamProxy  添加rtsp/rtmp推流(addStreamPusherProxy)
 
 
 ​       wsPlayer是一款专注于WebSocket-fmp4协议的web视频播放器，HTTP/WebSocket-fmp4协议与RTMP、HLS、HTTP-FLV相比，具有播放延时短，HTML5兼容性好等优点；
